@@ -125,6 +125,7 @@ conflicted = '[#](yellow)'
 ssh_only = true
 
 [kubernetes]
+disabled = true
 style = '#70c0b1'
 format = '[$symbol$context( \($namespace\))]($style) '
 symbol = '☸ '
