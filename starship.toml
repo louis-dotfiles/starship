@@ -129,9 +129,6 @@ style = '#70c0b1'
 format = '[$symbol$context( \($namespace\))]($style) '
 symbol = '☸ '
 
-[memory_usage]
-# disabled = true
-
 [package]
 symbol = '󰏗 '
 
