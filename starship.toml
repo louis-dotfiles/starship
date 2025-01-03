@@ -134,7 +134,7 @@ format = '[$symbol$context( \($namespace\))]($style) '
 symbol = '☸ '
 
 [lua]
-symbol = ' '
+symbol = ' '
 
 [package]
 symbol = '󰏗 '
